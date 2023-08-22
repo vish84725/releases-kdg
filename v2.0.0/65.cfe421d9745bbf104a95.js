@@ -1,0 +1,9 @@
+/*! @version pwa-studio: 0.0.1, @magento/venia-ui: ^9.6.0, @magento/upward-security-headers: ~1.0.9, @magento/upward-js: ^5.3.2, @magento/pwa-theme-venia: ~1.3.0, @magento/pwa-buildpack: ^11.4.0, @magento/peregrine: ^12.5.1, @magento/pagebuilder: ^7.4.1, @magento/eslint-config: ^1.5.3, @magento/babel-preset-peregrine: ~1.2.1, @apollo/client: ~3.5.0 */
+(window.webpackJsonp=window.webpackJsonp||[]).push([[65],{"1m22":function(t,r,n){"use strict"
+n.r(r),n.d(r,"default",function(){return u})
+var i=n("q1tI"),o=n.n(i),e=n("LboF"),a=n.n(e),s=n("gseO"),g={injectType:"singletonStyleTag",insert:"head",singleton:!0},d=(a()(s.a,g),s.a.locals||{}),p=n("y1Xp"),l=n("17x9"),m=n("Ty5D"),c=n("6MNj"),b=t=>({__html:t}),h=t=>{var r=Object(p.a)(d,t.classes),{html:n,textAlign:i,border:e,borderColor:a,borderWidth:s,borderRadius:g,marginTop:l,marginRight:h,marginBottom:u,marginLeft:f,paddingTop:w,paddingRight:T,paddingBottom:k,paddingLeft:y,cssClasses:R=[]}=t,j={textAlign:i,border:e,borderColor:a,borderWidth:s,borderRadius:g,marginTop:l,marginRight:h,marginBottom:u,marginLeft:f,paddingTop:w,paddingRight:T,paddingBottom:k,paddingLeft:y},O=Object(m.useHistory)(),L=t=>{Object(c.a)(O,t)}
+return o.a.createElement("div",{style:j,className:[r.root,...R].join(" "),dangerouslySetInnerHTML:b(n),onClick:L,onKeyDown:L,role:"presentation"})}
+h.propTypes={classes:Object(l.shape)({root:l.string}),html:l.string,textAlign:l.string,border:l.string,borderColor:l.string,borderWidth:l.string,borderRadius:l.string,marginTop:l.string,marginRight:l.string,marginBottom:l.string,marginLeft:l.string,paddingTop:l.string,paddingRight:l.string,paddingBottom:l.string,cssClasses:Object(l.arrayOf)(l.string)}
+var u=h},gseO:function(t,r,n){"use strict"
+var i=n("JPst"),o=n.n(i)()(function(t){return t[1]})
+o.push([t.i,".html-root-akk {\n    word-wrap: break-word;\n}\n.html-root-akk img {\n    max-width: 100%;\n}\n",""]),o.locals={root:"html-root-akk"},r.a=o}}])

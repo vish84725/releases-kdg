@@ -1,0 +1,60 @@
+{
+  "RootCmp_CATEGORY__default.js": "/RootCmp_CATEGORY__default.d821ca07350f5d656f9a.js",
+  "RootCmp_CMS_PAGE__default.js": "/RootCmp_CMS_PAGE__default.65a4e02fec5334cd85eb.js",
+  "RootCmp_PRODUCT__default.js": "/RootCmp_PRODUCT__default.a959bcb613d8adfdea04.js",
+  "RootCmp_SEARCH__default.js": "/RootCmp_SEARCH__default.00369bb657f20f1bdbc6.js",
+  "about-us-new.png": "/about-us-new-guw.png",
+  "client.js": "/client.aa6a53eafd21a81ca4cb.js",
+  "contact-contact-us-new.png": "/contact-contact-us-new-vW1.png",
+  "entrypoints": {
+    "client": {
+      "js": [
+        "/runtime.7e4f6cf60232b9c09b9b.js",
+        "/vendors.d7508e36eeea65d66ab7.js",
+        "/client.aa6a53eafd21a81ca4cb.js"
+      ]
+    }
+  },
+  "errorViewBackground-1400x600.png": "/errorViewBackground-1400x600-2zc.png",
+  "errorViewBackground-380x600.png": "/errorViewBackground-380x600-eYr.png",
+  "i18n-en_US.js": "/i18n-en_US.b1790935669648ea1050.js",
+  "noProductsFound.png": "/noProductsFound-qjv.png",
+  "payment-info-new.png": "/payment-info-new-246.png",
+  "runtime.js": "/runtime.7e4f6cf60232b9c09b9b.js",
+  "vendors.js": "/vendors.d7508e36eeea65d66ab7.js",
+  "vendors~RootCmp_CATEGORY__default~RootCmp_SEARCH__default.js": "/vendors~RootCmp_CATEGORY__default~RootCmp_SEARCH__default.879d3ab42c666be7d375.js",
+  "welcome-image.png": "/welcome-image-9gF.png",
+  "bundles": {
+    "load": [
+      "/runtime.7e4f6cf60232b9c09b9b.js",
+      "/vendors.d7508e36eeea65d66ab7.js",
+      "/client.aa6a53eafd21a81ca4cb.js"
+    ],
+    "prefetch": [
+      "/RootCmp_CATEGORY__default.d821ca07350f5d656f9a.js",
+      "/RootCmp_CMS_PAGE__default.65a4e02fec5334cd85eb.js",
+      "/RootCmp_PRODUCT__default.a959bcb613d8adfdea04.js",
+      "/RootCmp_SEARCH__default.00369bb657f20f1bdbc6.js"
+    ]
+  },
+  "js": {
+    "RootCmp_CATEGORY__default": "/RootCmp_CATEGORY__default.d821ca07350f5d656f9a.js",
+    "RootCmp_CMS_PAGE__default": "/RootCmp_CMS_PAGE__default.65a4e02fec5334cd85eb.js",
+    "RootCmp_PRODUCT__default": "/RootCmp_PRODUCT__default.a959bcb613d8adfdea04.js",
+    "RootCmp_SEARCH__default": "/RootCmp_SEARCH__default.00369bb657f20f1bdbc6.js",
+    "client": "/client.aa6a53eafd21a81ca4cb.js",
+    "i18n-en_US": "/i18n-en_US.b1790935669648ea1050.js",
+    "runtime": "/runtime.7e4f6cf60232b9c09b9b.js",
+    "vendors": "/vendors.d7508e36eeea65d66ab7.js",
+    "vendors~RootCmp_CATEGORY__default~RootCmp_SEARCH__default": "/vendors~RootCmp_CATEGORY__default~RootCmp_SEARCH__default.879d3ab42c666be7d375.js"
+  },
+  "png": {
+    "about-us-new": "/about-us-new-guw.png",
+    "contact-contact-us-new": "/contact-contact-us-new-vW1.png",
+    "errorViewBackground-1400x600": "/errorViewBackground-1400x600-2zc.png",
+    "errorViewBackground-380x600": "/errorViewBackground-380x600-eYr.png",
+    "noProductsFound": "/noProductsFound-qjv.png",
+    "payment-info-new": "/payment-info-new-246.png",
+    "welcome-image": "/welcome-image-9gF.png"
+  }
+}
